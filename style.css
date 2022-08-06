@@ -75,3 +75,27 @@ h1 span {
     padding-left: 20px;
     box-shadow: 10px 10px 40px gray;
 }
+
+#codding_bg {
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 15%;
+    background-clip: unset;
+}
+
+.top_banner_coding img {
+    width: 75%;
+    margin-left: 15%;
+    margin-right: 10%;
+}
+
+.coding_text {
+    margin-top: 40px;
+    margin-right: 10px;
+}
+
+.coding_text h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
