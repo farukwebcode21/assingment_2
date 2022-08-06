@@ -1,0 +1,77 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.top_banner {
+    display: flex;
+    padding-bottom: 100px;
+}
+
+.top_banner_area {
+    width: 40%;
+    margin-left: 5%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h1 span {
+    color: orange;
+}
+
+.state-area {
+    border-left: 3px solid orangered;
+    margin-left: 5px;
+}
+
+.top_banner_area img {
+    width: 85%;
+}
+
+.button_color {
+    text-decoration: none;
+    background-color: darkorange;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+/* My Mission in 2022 */
+
+.mission_section h1 {
+    text-align: center;
+    font-weight: 700;
+}
+
+.mission-area img {
+    width: 40%;
+}
+
+.mission-area {
+    width: 44%;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+#mission {
+    background-color: antiquewhite;
+}
+
+#vission {
+    background-color: azure;
+}
+
+#goal {
+    background-color: aquamarine;
+}
+
+.experience {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
